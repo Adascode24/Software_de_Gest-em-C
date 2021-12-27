@@ -1,2 +1,8 @@
-# www.wikdell.com
-site do wikdell
+GESTOR DE ESTOQUE DESENVOLVIDO NA LINGUAGEM C 
+
+
+#AREA DE ADMINISTRADOR
+
+#AREA DE FUNCIONARIO
+
+#poder fazer venda
