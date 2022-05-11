@@ -4,5 +4,7 @@ GESTOR DE ESTOQUE DESENVOLVIDO NA LINGUAGEM C
 #AREA DE ADMINISTRADOR
 
 #AREA DE FUNCIONARIO
-
-#poder fazer venda
+    * poder fazer venda
+    * Fazer Relatorio
+    
+    
